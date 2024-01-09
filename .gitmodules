@@ -4,3 +4,6 @@
 [submodule "Learn3/AutocodeTasks/max-in-seq"]
 	path = Learn3/AutocodeTasks/max-in-seq
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/max-in-seq.git
+[submodule "Learn3/AutocodeTasks/average"]
+	path = Learn3/AutocodeTasks/average
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/average.git
