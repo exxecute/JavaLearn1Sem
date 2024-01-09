@@ -7,3 +7,6 @@
 [submodule "Learn3/AutocodeTasks/average"]
 	path = Learn3/AutocodeTasks/average
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/average.git
+[submodule "Learn3/AutocodeTasks/pizza-split"]
+	path = Learn3/AutocodeTasks/pizza-split
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/pizza-split.git
