@@ -1,0 +1,3 @@
+[submodule "Learn3/AutocodeTasks/go-dutch"]
+	path = Learn3/AutocodeTasks/go-dutch
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/go-dutch.git
