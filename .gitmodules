@@ -25,3 +25,6 @@
 [submodule "Learn4/AutocodeTasks/localMaximaRemove"]
 	path = Learn4/AutocodeTasks/localMaximaRemove
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/local-maxima-remove.git
+[submodule "Learn4/AutocodeTasks/CycleSwap"]
+	path = Learn4/AutocodeTasks/CycleSwap
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/cycle-swap.git
