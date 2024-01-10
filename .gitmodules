@@ -10,3 +10,6 @@
 [submodule "Learn3/AutocodeTasks/pizza-split"]
 	path = Learn3/AutocodeTasks/pizza-split
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/pizza-split.git
+[submodule "Learn3/AutocodeTasks/quadratic-equation"]
+	path = Learn3/AutocodeTasks/quadratic-equation
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/quadratic-equation.git
