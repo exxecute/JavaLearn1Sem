@@ -18,7 +18,6 @@ class Solution {
                 a[answer] = a[i];
                 answer++;
             }
-
             if(i >= answer) 
             {
                 a[i] = 0;
