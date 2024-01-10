@@ -7,14 +7,14 @@ class Solution {
     public static int[][] create(int n) {
         //put your code here
         int b[][] = new int[n][n];
-
-        for(int i  = 0; i < n; i++)
+        int value = 1;
+        
+        for(int i = 0; i < n; i++)
         {
-            int a = i + 1;
             for(int j = 0; j < n; j++)
             {
-                b[i][j] = a;
-                a = ((a == n) || (a == 0)) ? 0 : a + 1;
+                b[i][j] = value;
+                value++;
             }
         }
 
