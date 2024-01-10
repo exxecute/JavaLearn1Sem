@@ -22,3 +22,6 @@
 [submodule "Learn4/AutocodeTasks/SumOfPrevious"]
 	path = Learn4/AutocodeTasks/SumOfPrevious
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/sum-of-previous.git
+[submodule "Learn4/AutocodeTasks/localMaximaRemove"]
+	path = Learn4/AutocodeTasks/localMaximaRemove
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/local-maxima-remove.git
