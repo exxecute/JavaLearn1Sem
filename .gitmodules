@@ -16,3 +16,6 @@
 [submodule "Learn4/AutocodeTasks/max"]
 	path = Learn4/AutocodeTasks/max
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/max.git
+[submodule "Learn4/AutocodeTasks/SumOfEvenNumbers"]
+	path = Learn4/AutocodeTasks/SumOfEvenNumbers
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/sum-of-even-numbers.git
