@@ -31,3 +31,6 @@
 [submodule "Learn4/AutocodeTasks/spiral"]
 	path = Learn4/AutocodeTasks/spiral
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/spiral.git
+[submodule "Learn4/AutocodeTasks/TransposeMatrix"]
+	path = Learn4/AutocodeTasks/TransposeMatrix
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/transpose-matrix.git
