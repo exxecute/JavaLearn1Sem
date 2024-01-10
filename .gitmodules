@@ -28,3 +28,6 @@
 [submodule "Learn4/AutocodeTasks/CycleSwap"]
 	path = Learn4/AutocodeTasks/CycleSwap
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/cycle-swap.git
+[submodule "Learn4/AutocodeTasks/spiral"]
+	path = Learn4/AutocodeTasks/spiral
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/spiral.git
