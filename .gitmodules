@@ -13,3 +13,6 @@
 [submodule "Learn3/AutocodeTasks/quadratic-equation"]
 	path = Learn3/AutocodeTasks/quadratic-equation
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/quadratic-equation.git
+[submodule "Learn4/AutocodeTasks/max"]
+	path = Learn4/AutocodeTasks/max
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/max.git
