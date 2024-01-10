@@ -5,7 +5,11 @@ class Solution {
      * @return the k x 4 matrix filled  with zeros and b[i][j] = 1 where j = a[i]
      */
     public static int[][] create(int[] a) {
-        //put your code here
-        return new int[0][0];
+        int b[][] = new int[a.length][4];
+        for(int i = 0; i < a.length; i++)
+        {
+            b[i][a[i]] = 1;
+        }
+        return b;
     }
 }
