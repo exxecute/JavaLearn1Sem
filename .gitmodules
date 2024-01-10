@@ -34,3 +34,6 @@
 [submodule "Learn4/AutocodeTasks/TransposeMatrix"]
 	path = Learn4/AutocodeTasks/TransposeMatrix
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/transpose-matrix.git
+[submodule "Learn4/AutocodeTasks/MultiplyMatrices"]
+	path = Learn4/AutocodeTasks/MultiplyMatrices
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/multiply-matrices.git
