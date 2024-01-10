@@ -7,7 +7,13 @@ class Solution {
      * @return the number of elements of the array a that belong to the segment [?, d]
      */
     public static int getResult(int[] a, int c, int d) {
-        //put your code here
-        return 0;
+        int answer = 0;
+
+        for(int i = 0; i < a.length; i++) {
+            if(a[i] >= c && a[i] <= d) {
+                answer++;
+            }
+        }
+        return answer;
     }
 }
