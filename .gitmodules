@@ -37,3 +37,6 @@
 [submodule "Learn4/AutocodeTasks/MultiplyMatrices"]
 	path = Learn4/AutocodeTasks/MultiplyMatrices
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/multiply-matrices.git
+[submodule "Learn8/SingleLinkedList"]
+	path = Learn8/SingleLinkedList
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/SingleLinkedList-task.git
