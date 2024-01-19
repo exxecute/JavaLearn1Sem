@@ -1,16 +1,7 @@
-class Main
-{
-    public static void main(String[] args)
-    {
-        int x = 2;
-        int y = 2;
-        System.out.println(a(x));
-    }
-
-    public static int a(int x)
-    {
-        return x = x + 1;
-    }
-
-   
-}
+public class A {  
+    int a;                   //1  
+    public void A(){}    //2  
+    private A(){}         //3  
+    A ob=new A();       //4  
+    int c=ob.a;           //5  
+ } 

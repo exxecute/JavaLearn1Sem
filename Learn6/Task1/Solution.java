@@ -27,12 +27,12 @@ class Solution {
 
     private static int[] euclid(int a)
     {
-        int[] values = new int[10];
+        int[] values = new int[100];
         int values_head = 0;
 
         while(a != 1)
         {
-            for(int i = 2; i < 10; i++)
+            for(int i = 2; i < 100; i++)
             {
                 if(a % i == 0)
                 {
@@ -48,7 +48,7 @@ class Solution {
 
     private static int euclid(int[] a, int[] b)
     {
-        int[] values = new int[10];
+        int[] values = new int[100];
         int values_head = 0;
         int answer = 1;
 
