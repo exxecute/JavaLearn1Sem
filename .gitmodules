@@ -40,3 +40,9 @@
 [submodule "Learn8/SingleLinkedList"]
 	path = Learn8/SingleLinkedList
 	url = git@autocode.git.epam.com:uladzislau.mikhayevich/SingleLinkedList-task.git
+[submodule "Learn11/io-txt"]
+	path = Learn11/io-txt
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/io-txt.git
+[submodule "Learn8/binaryTree"]
+	path = Learn8/binaryTree
+	url = git@autocode.git.epam.com:uladzislau.mikhayevich/binary-tree-task.git
